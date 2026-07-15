@@ -1,0 +1,14 @@
+2026/07/15 10:20:05 Worker-1 started
+2026/07/15 10:20:05 Worker-2 started
+2026/07/15 10:20:05 Worker-3 started
+2026/07/15 10:20:05 Worker-1 processing Task-1
+2026/07/15 10:20:05 Worker-2 processing Task-2
+2026/07/15 10:20:05 Worker-3 processing Task-3
+2026/07/15 10:20:06 Worker-1 saved result for Task-1
+2026/07/15 10:20:06 Worker-2 saved result for Task-2
+2026/07/15 10:20:06 Worker-3 saved result for Task-3
+2026/07/15 10:20:07 Worker-1 completed all tasks
+2026/07/15 10:20:07 Worker-2 completed all tasks
+2026/07/15 10:20:07 Worker-3 completed all tasks
+2026/07/15 10:20:07 Results written to go_results.txt
+2026/07/15 10:20:07 Total results collected: 8

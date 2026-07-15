@@ -1,0 +1,28 @@
+Jul 15, 2026 10:15:10 AM Worker run
+INFO: Worker-1 started.
+Jul 15, 2026 10:15:10 AM Worker run
+INFO: Worker-2 started.
+Jul 15, 2026 10:15:10 AM Worker run
+INFO: Worker-3 started.
+Jul 15, 2026 10:15:10 AM Worker processTask
+INFO: Worker-1 processing Task-1
+Jul 15, 2026 10:15:10 AM Worker processTask
+INFO: Worker-2 processing Task-2
+Jul 15, 2026 10:15:10 AM Worker processTask
+INFO: Worker-3 processing Task-3
+Jul 15, 2026 10:15:11 AM Worker run
+INFO: Worker-1 saved result for Task-1
+Jul 15, 2026 10:15:11 AM Worker run
+INFO: Worker-2 saved result for Task-2
+Jul 15, 2026 10:15:11 AM Worker run
+INFO: Worker-3 saved result for Task-3
+Jul 15, 2026 10:15:12 AM Worker run
+INFO: Worker-1 completed all tasks.
+Jul 15, 2026 10:15:12 AM Worker run
+INFO: Worker-2 completed all tasks.
+Jul 15, 2026 10:15:12 AM Worker run
+INFO: Worker-3 completed all tasks.
+Jul 15, 2026 10:15:12 AM Main main
+INFO: Results written to java_results.txt
+Jul 15, 2026 10:15:12 AM Main main
+INFO: Total results collected: 8
