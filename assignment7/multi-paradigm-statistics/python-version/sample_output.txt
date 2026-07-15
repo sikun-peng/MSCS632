@@ -1,0 +1,4 @@
+Dataset: 4, 7, 2, 7, 9, 2, 5, 7, 4, 2
+Mean: 4.90
+Median: 4.50
+Mode: 2, 7 (appeared 3 times)
