@@ -1,0 +1,44 @@
+Sample Queries and Expected Output
+=================================
+
+1. Children of Susan
+?- child_of(Child, susan).
+Child = michael ;
+Child = linda ;
+Child = james.
+
+2. Grandchildren of Robert
+?- grandparent_of(robert, Grandchild).
+Grandchild = emma ;
+Grandchild = noah ;
+Grandchild = olivia ;
+Grandchild = liam.
+
+3. Siblings of Linda
+?- sibling_of(linda, Sibling).
+Sibling = michael ;
+Sibling = james.
+
+4. Cousins of Emma
+?- cousin_of(emma, Cousin).
+Cousin = olivia ;
+Cousin = liam.
+
+5. Is Noah a cousin of Olivia?
+?- cousin_of(noah, olivia).
+true.
+
+6. Descendants of Robert
+?- descendant_of(robert, Descendant).
+Descendant = michael ;
+Descendant = linda ;
+Descendant = james ;
+Descendant = emma ;
+Descendant = noah ;
+Descendant = olivia ;
+Descendant = liam ;
+Descendant = sophia.
+
+7. Is Robert a grandparent of Sophia?
+?- grandparent_of(robert, sophia).
+true.
