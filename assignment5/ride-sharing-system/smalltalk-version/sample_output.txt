@@ -1,0 +1,14 @@
+Ride Sharing System Demo
+========================
+
+Polymorphic Fare Calculation
+[Standard] Ride ID: SR001, Pickup: Campus Library, Dropoff: Airport, Distance: 8.2 miles, Fare: $16.85
+[Premium] Ride ID: PR002, Pickup: Downtown Hotel, Dropoff: Tech Park, Distance: 12.5 miles, Fare: $50.13
+[Standard] Ride ID: SR003, Pickup: Museum District, Dropoff: River Walk, Distance: 5.4 miles, Fare: $11.95
+
+Rider ID: R201, Name: Ava Thompson
+Ride History:
+  - [Standard] Ride ID: SR001, Pickup: Campus Library, Dropoff: Airport, Distance: 8.2 miles, Fare: $16.85
+  - [Premium] Ride ID: PR002, Pickup: Downtown Hotel, Dropoff: Tech Park, Distance: 12.5 miles, Fare: $50.13
+  - [Standard] Ride ID: SR003, Pickup: Museum District, Dropoff: River Walk, Distance: 5.4 miles, Fare: $11.95
+Driver ID: D101, Name: Marcus Lee, Rating: 4.9, Completed Rides: 3, Earnings: $78.92
